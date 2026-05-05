@@ -1,5 +1,8 @@
 # Holistic Evaluation of Travel Blogger Campaign ROI and Attribution Models
 
+[![Support Open Work](https://img.shields.io/badge/Support-Open%20Work-0A0A0A?style=flat&logo=github)](https://github.com/brandonhimpfen/support) 
+[![DOI](https://zenodo.org/badge/1226993436.svg)](https://doi.org/10.5281/zenodo.20032513)
+
 A system-level, reproducible framework for evaluating ROI and attribution across multi-channel travel marketing campaigns.
 
 ## Overview
